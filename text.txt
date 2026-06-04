@@ -1,3 +1,4 @@
+
 # a=int(input())
 # if a%2==0:
 #     print(f"{a} is even")
@@ -41,4 +42,4 @@
 # a={'name':'nandhu','age':"26",'place':'nagercoil'}
 # b={'name':'dinesh','age':'26','place':'chennai'}
 
-# a={'tamil':'74','english':"74",'science':'100','maths':'94','social':'94'}
+# a={'tamil':'74','english':"74",'science':'100','maths':'94','social science':'94'}
