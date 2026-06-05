@@ -23,25 +23,4 @@
 # else:
 #     print("he is fail")
 
-# year=int(input())
-# if year%4==0 and year%100!=0 or year%400==0:
-#     print("this is  leap year")
-# else:
-#     print("this is not leap year")
 
-# cricket={"nandhu","surya","rohith","subin","rabin"}
-# vollyball={"nandhu","aswin","rahul","rabin","ratheesh"}
-# # print(cricket|vollyball)
-# print(cricket^vollyball)
-
-# a={'name':'nandhu','age':"26",'place':'nagercoil'}
-# b={'fname':'dinesh','fage':'26','fplace':'chennai'}
-# print(a|b)
-
-
-# a={'name':'nandhu','age':"26",'place':'nagercoil'}
-# b={'name':'dinesh','age':'26','place':'chennai'}
-
-<<<<<<< HEAD
-# a={'tamil':'74','english':"74",'science':'100','maths':'94','social science':'94'}
-=======
